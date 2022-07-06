@@ -1,0 +1,13 @@
+.card-detail{
+    margin-top: 1rem;
+    width: 80rem;
+
+    height: 35rem;
+    padding: 25px;
+    background-color:slategray;
+  }
+.img-detail
+{
+  height: 30rem;
+  width: 18rem;
+}

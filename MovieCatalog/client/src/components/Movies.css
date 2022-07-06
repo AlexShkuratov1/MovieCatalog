@@ -1,0 +1,33 @@
+.card{
+    margin-top: 1rem;
+    width: 18rem;
+
+    height: 35rem;
+    padding: 25px;
+    background-color:slategray;
+  }
+.container
+{
+  align-items: center;
+  justify-content: center;
+}
+.card-img-top
+{
+  height: 20rem;
+  width: 100%;
+}
+.card-title
+{
+  height: 30px;
+}
+.card-text
+{
+  height: 25px;
+}
+.card-body
+{
+  height: 30px;
+}
+
+
+

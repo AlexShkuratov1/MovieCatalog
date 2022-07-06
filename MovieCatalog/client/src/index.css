@@ -1,0 +1,12 @@
+:root {
+  --color-bg-hover: #0f7dc6;
+  --color-active: #2c2c32;
+}
+body {
+  background: #333; 
+ }
+.active {
+  color: var(--color-active);
+  cursor: default;
+}
+
